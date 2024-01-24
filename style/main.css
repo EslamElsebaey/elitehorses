@@ -513,7 +513,6 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   .features {
     height: auto;
     padding: 70px 0;
-    background-color: #121d32;
   }
 }
 @media only screen and (max-width: 767px) {
