@@ -394,7 +394,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   }
 }
 .features {
-  background-image: url(../../../images/features-bg.jpg);
+  background-image: url(../images/features-bg.jpg);
   background-position: center center;
   background-size: cover;
   height: 822px;
@@ -1203,7 +1203,7 @@ header {
 
 .mainBanner-parent {
   direction: rtl;
-  background-image: url(../../../images/hero-bg.jpg);
+  background-image: url(../images/hero-bg.jpg);
   background-position: center 100%;
   background-size: cover;
   background-color: #121d32;
