@@ -69,20 +69,20 @@ body {
   text-transform: capitalize;
 }
 .read-more:hover {
-  color: #2b76b7;
+  color: #778bb0;
   text-decoration: underline;
 }
 
 .sub-title {
   font-size: 22px;
-  color: #2b76b7;
+  color: #778bb0;
   font-weight: 400;
   text-align: center;
 }
 
 .general-title {
   font-size: 34px;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 700;
   text-align: center;
   margin-bottom: 0;
@@ -131,7 +131,7 @@ a:focus, button:focus {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #1a1a1a;
+  background: #121d32;
   border-radius: 15px;
 }
 
@@ -165,7 +165,7 @@ a:focus, button:focus {
 .progress-bar {
   animation: progress 6s ease infinite;
   padding: 1px;
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 
 @keyframes progress {
@@ -198,14 +198,14 @@ a:focus, button:focus {
   z-index: 10;
 }
 .toTop:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 .toTop:hover .toTop-icon {
   color: #fff;
 }
 .toTop .toTop-icon {
   font-size: 14px;
-  color: #1a1a1a;
+  color: #121d32;
   transition: all linear 0.2s;
 }
 
@@ -237,7 +237,7 @@ a:focus, button:focus {
   transition: all linear 0.2s;
 }
 .bread-link:hover {
-  color: #2b76b7;
+  color: #778bb0;
 }
 
 ol.breadcrumb li a, ol.breadcrumb li span {
@@ -295,7 +295,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   width: 1100px;
   font-size: 28px;
   line-height: 50px;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 400;
   text-align: center;
   margin-left: auto;
@@ -330,7 +330,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
 }
 .about .item .icon {
   font-size: 48px;
-  color: #2b76b7;
+  color: #778bb0;
   text-align: center;
 }
 
@@ -427,7 +427,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   margin-bottom: 20px;
   text-align: start;
   font-size: 22px;
-  color: #2b76b7;
+  color: #778bb0;
   font-weight: 400;
 }
 
@@ -458,7 +458,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   width: 59px;
   height: 59px;
   border-radius: 50%;
-  background-color: #2b76b7;
+  background-color: #778bb0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -513,7 +513,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   .features {
     height: auto;
     padding: 70px 0;
-    background-color: #1a1a1a;
+    background-color: #121d32;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -568,7 +568,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
 }
 .app-screens .title-text {
   font-size: 30px;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 700;
   text-align: center;
   margin-bottom: 55px;
@@ -685,7 +685,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
 }
 
 .main-question.active .ques-text, .main-question.active .ques-details .icon, .main-question.active .ques-num {
-  color: #2b76b7;
+  color: #778bb0;
 }
 .main-question.active .ques-details .icon {
   transform: rotate(180deg);
@@ -709,7 +709,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
   font-size: 18px;
   transition: all ease-in-out 0.1s;
   line-height: 34px;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 700;
   margin: 0;
   margin-inline-start: 25px;
@@ -728,7 +728,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
 }
 
 .ques-answer {
-  color: #1a1a1a;
+  color: #121d32;
   width: 839px;
   padding-inline-start: 50px;
   font-size: 16px;
@@ -804,7 +804,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
 }
 
 .download-bg {
-  background-color: #1a1a1a;
+  background-color: #121d32;
   height: 326px;
 }
 .download-bg .container {
@@ -871,7 +871,7 @@ ol.breadcrumb li a, ol.breadcrumb li span {
 }
 
 .download-app .download-links a:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -944,13 +944,13 @@ header {
   background-color: rgba(255, 255, 255, 0.9);
 }
 .blur-header .openBtn i {
-  color: #1a1a1a;
+  color: #121d32;
 }
 .blur-header .big-menu li a {
-  color: #1a1a1a;
+  color: #121d32;
 }
 .blur-header .header-links a {
-  background-color: #1a1a1a;
+  background-color: #121d32;
 }
 
 .fixed-header {
@@ -982,7 +982,7 @@ header {
   transition: background-color ease-in-out 0.2s;
 }
 .header-links a:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 .header-links a i {
   color: #fff;
@@ -1031,12 +1031,12 @@ header {
   transition: all linear 0.2s;
 }
 .big-menu li a:hover {
-  color: #2b76b7;
+  color: #778bb0;
 }
 
 @media only screen and (min-width: 992px) {
   .big-menu li a.active {
-    color: #2b76b7;
+    color: #778bb0;
   }
   .openBtn {
     display: none;
@@ -1089,7 +1089,7 @@ header {
     display: none;
     width: 100%;
     height: 100vh;
-    background-color: #1a1a1a;
+    background-color: #121d32;
     z-index: -1;
     padding: 20px;
     padding-top: 28px;
@@ -1175,13 +1175,13 @@ header {
   background-color: rgba(255, 255, 255, 0.102);
 }
 .header-mob .header-links a:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 .header-mob .big-menu li a {
   color: #fff;
 }
 .header-mob .big-menu li a:hover {
-  color: #2b76b7;
+  color: #778bb0;
 }
 
 .mainBanner {
@@ -1247,7 +1247,7 @@ header {
   transition: background-color ease-in-out 0.2s;
 }
 .banner-desc .download-links a:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 
 .scroll-btn {
@@ -1424,7 +1424,7 @@ header {
   transition: all ease-in-out 0.2s;
 }
 .client-reviews .swiper-buttons div:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 .client-reviews .swiper-buttons div:hover i {
   color: #fff;
@@ -1467,13 +1467,13 @@ header {
 }
 .client-reviews .item .icon {
   font-size: 48px;
-  color: #2b76b7;
+  color: #778bb0;
 }
 .client-reviews .item .quote-text {
   font-size: 16px;
   line-height: 30px;
   font-weight: 400;
-  color: #1a1a1a;
+  color: #121d32;
   text-align: start;
   margin-top: 15px;
   margin-bottom: 0;
@@ -1518,7 +1518,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
     height: 6px;
   }
   .client-reviews .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #1a1a1a;
+    background-color: #121d32;
     opacity: 1;
   }
   .client-reviews .row {
@@ -1625,7 +1625,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
 }
 .form-div .text {
   font-size: 18px;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 700;
   text-align: start;
   margin-bottom: 25px;
@@ -1656,7 +1656,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
 }
 .myform .inputs input:focus, .myform .inputs .select2-selection--single:focus, .myform .inputs textarea:focus {
   outline: none !important;
-  border-color: #2b76b7;
+  border-color: #778bb0;
 }
 .myform .inputs input::-moz-placeholder, .myform .inputs .select2-selection--single::-moz-placeholder, .myform .inputs textarea::-moz-placeholder {
   font-size: 14px;
@@ -1682,7 +1682,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   outline: none;
 }
 .myform .inputs .select2-container--default .select2-selection--single:focus {
-  border-color: #2b76b7 !important;
+  border-color: #778bb0 !important;
 }
 .myform .inputs .select2-container--default .select2-selection--single:focus .select2-selection__arrow::after {
   transform: translateY(-50%) rotate(180deg);
@@ -1719,7 +1719,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   width: 150px;
   height: 50px;
   border-radius: 25px;
-  background-color: #1a1a1a;
+  background-color: #121d32;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1730,7 +1730,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   transition: all ease-in-out 0.2s;
 }
 .myform .submit-holder button:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
   color: #fff;
 }
 
@@ -1740,7 +1740,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   padding-bottom: 50px;
   padding-top: 40px;
   border-radius: 15px;
-  background-color: #1a1a1a;
+  background-color: #121d32;
 }
 .social-div .head {
   font-size: 18px;
@@ -1779,7 +1779,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   transition: all ease-in-out 0.2s;
 }
 .social-items .item .item-val:hover {
-  color: #2b76b7;
+  color: #778bb0;
 }
 
 .social-icons {
@@ -1800,7 +1800,7 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   transition: all ease-in-out 0.2s;
 }
 .social-icons a:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 .social-icons a:hover i {
   color: #fff;
@@ -1885,14 +1885,14 @@ footer {
 }
 .footer-content .copyright {
   font-size: 14px;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 400;
   text-align: center;
   margin-bottom: 10px;
 }
 .footer-content .tasawk {
   font-size: 14px;
-  color: #1a1a1a;
+  color: #121d32;
   text-align: center;
   display: flex;
   align-items: center;
@@ -1918,7 +1918,7 @@ footer {
   transition: all ease-in-out 0.2s;
 }
 .footer-content .main-links a:hover {
-  color: #2b76b7;
+  color: #778bb0;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1940,19 +1940,19 @@ footer {
 }
 
 .pages-body .big-menu li a {
-  color: #1a1a1a;
+  color: #121d32;
 }
 .pages-body .big-menu li a:hover {
-  color: #2b76b7;
+  color: #778bb0;
 }
 .pages-body .header-links a {
-  background-color: #1a1a1a;
+  background-color: #121d32;
 }
 .pages-body .header-links a:hover {
-  background-color: #2b76b7;
+  background-color: #778bb0;
 }
 .pages-body .openBtn i {
-  color: #1a1a1a;
+  color: #121d32;
 }
 
 .page-general-sec {
@@ -1962,7 +1962,7 @@ footer {
 .page-general-sec .page-sec-head {
   font-size: 24px;
   text-transform: capitalize;
-  color: #1a1a1a;
+  color: #121d32;
   font-weight: 700;
   text-align: start;
   margin-bottom: 40px;
@@ -1970,7 +1970,7 @@ footer {
 .page-general-sec .page-sec-para {
   font-size: 18px;
   line-height: 36px;
-  color: #1a1a1a;
+  color: #121d32;
   text-align: justify;
   margin-bottom: 0;
 }
