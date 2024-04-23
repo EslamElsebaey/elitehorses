@@ -4,29 +4,9 @@ $(window).on("load" , function(){
   $(".preloader").fadeOut();
 
 
-  // Wow js
-  new WOW().init();
-})
-
-
-
-
-$(document).ready(function(){
- 
-  
-  // fire select2
-  $('.myselect').select2();
-
-  $('.myform select').select2({
-    minimumResultsForSearch: -1
-  });
-
-
-  
-      
-   
-
-  
+    
+    // Wow js
+    new WOW().init();
 
 // App screens Swiper
 const appScreens = new Swiper('.app-screens .swiper', {
@@ -102,6 +82,29 @@ const clientsReview = new Swiper('.client-reviews .swiper', {
     },
   },
 });
+
+
+
+})
+
+
+
+
+$(document).ready(function(){
+ 
+  
+  // fire select2
+  $('.myselect').select2();
+
+  $('.myform select').select2({
+    minimumResultsForSearch: -1
+  });
+
+
+  
+      
+   
+
 
 
 
