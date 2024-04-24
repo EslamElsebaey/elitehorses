@@ -1184,7 +1184,7 @@ header {
 }
 
 .mainBanner {
-  height: 100dvh;
+  height: 100vh;
   overflow: hidden;
 }
 .mainBanner .container {
