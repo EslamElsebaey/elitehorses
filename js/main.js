@@ -13,6 +13,7 @@ const appScreens = new Swiper('.app-screens .swiper', {
   loop: true,
   autoplay: true,
   allowTouchMove: true,
+  speed : 1000,
   centeredSlides: true,
   slideToClickedSlide: true,
   draggable: true,
@@ -49,20 +50,21 @@ const appScreens = new Swiper('.app-screens .swiper', {
 
 // Clients review swiper
 
-const clientsReview = new Swiper('.client-reviews .swiper', {
+const clientsReview = new Swiper(".client-reviews .swiper", {
   loop: true,
   autoplay: true,
   allowTouchMove: true,
+  speed: 1000,
   draggable: true,
   navigation: {
-    nextEl: ' .client-reviews .swiper-button-next',
-    prevEl: '.client-reviews .swiper-button-prev',
+    nextEl: " .client-reviews .swiper-button-next",
+    prevEl: ".client-reviews .swiper-button-prev",
   },
   pagination: {
-    el: '.client-reviews .swiper-pagination',
+    el: ".client-reviews .swiper-pagination",
     clickable: true,
   },
-  
+
   breakpoints: {
     0: {
       slidesPerView: 1,
